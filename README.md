@@ -11,6 +11,10 @@ This prototype uses virtual reality to assess drivers' psychosensory skills like
 - Support for Oculus Quest 2.
 - Intuitive and customizable interface.
 
+## Language
+
+- Spanish
+
 ## 3. Requirements and Hardware
 
 **3.1. PC Specifications**:
